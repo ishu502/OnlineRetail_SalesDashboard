@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" alt="Online Retail Sales Dashboard" width="80%">
+  <img src="https://github.com/ishu502/OnlineRetail_SalesDashboard/blob/main/project_banner.png?raw=true" alt="Online Retail Sales Dashboard" width="80%">
 </p>
 
 # 🛒 OnlineRetail_SalesDashboard
