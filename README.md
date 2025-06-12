@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="YOUR_IMAGE_LINK_HERE" alt="Online Retail Sales Dashboard" width="80%">
+</p>
+
 # 🛒 OnlineRetail_SalesDashboard
 
 An end-to-end **Power BI Dashboard Project** integrating **SQL and Python** for data loading and transformation.
